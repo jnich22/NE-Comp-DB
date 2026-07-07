@@ -1,0 +1,8 @@
+{
+  "lease": [
+    "lease_comps_base.json"
+  ],
+  "sale": [
+    "sale_comps_base.json"
+  ]
+}
